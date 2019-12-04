@@ -1,18 +1,17 @@
 ### Questions
 
 1. If all people were ethical in all their interactions, which centerpiece of modern society would be obviated?
+
 - The simple understading of having morals tied to a specific situation the individual encounters.  Being blind to what is the idea betwen right and wrong will be out of the window.
 
 2. Ethics creates a dichotomy between the comfort of the individual and the longevity, or mere existance, of the group. Give an example of an extreme case from recent history that favored the group to the detriment of the individual. How would you embed the principle of balance of the interests of the individual and the group into the ethical code itself? Be specific.
+
 - The industrial revolution comes to mind, because of the high demand of machineary that paved the way of enginerring new technology that gave many citizens jobs and companies to expand all over the nation.  The working conditions in these facilities was the draw back of the industrial revoultion where the poeple that were consuming the products were happy but the people making these components didnt have the best conditions.
-
-**(BONUS)** Ethical codes are vulnerable to the [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons). An ethical code relies on the _cooperation_ of the individuals. Discuss how rogue behavior (aka _defection_) with respect to the ethical code of a group gives rise to the [prinsoner's dilemma](https://en.wikipedia.org/wiki/Prisoner's_dilemma) and the eventual demise of the ethical code. What incentives can you build in the ethical code that would counteract the attractiveness of defection and, as a result, would mitigate the danger to the code?
--
-
 
 ### Class Activities
  
 1. In a small group up to 5 people, imagine you are a small _tech_ startup. Then:
+   
    1. List the group members below.
    - Hayden 
    - Dwhight
@@ -28,9 +27,9 @@
 2. Describe the ways your innovation, if realized, would affect society. 
    
    1. Below, list at least 3 adverse effects (including but not limited to _misuse_) of the innovation and anticipatory actions and           mechanisms you can embed that
-   - That potinetally that people causing this aspect to come into play will play a role where no one will be free of public privacy.
-   - Citizens tracked in the system with crimes and other forms of illegal activities will have no privacy
-   - Racially profiling within a given local database.
+   1- That potinetally that people causing this aspect to come into play will play a role where no one will be free of public privacy.
+   2- Citizens tracked in the system with crimes and other forms of illegal activities will have no privacy
+   3- Racially profiling within a given local database.
   
   2. Below, give an _explicit_ definition of the fine line between the benefit and detriment of your innovation at two moments of its        lifetime: (i) immediately upon launch; (ii) after enough time for it to be absorbed into everyday life.
   
